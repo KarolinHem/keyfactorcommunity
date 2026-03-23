@@ -16,6 +16,9 @@ To get started, see the READMEs in the respective folders:
 * [Apps Integration](../apps-integration)
 * [Deployment Examples](../deployment-examples)
 * [HSM Integration](../hsm-integration)
+* [EJBCA Scripts](../scripts)
+* [SignServer Jenkins integration](../jenkins-integration)
+* [SignServer PQ Demo](../pq-demo)
 
 ### System Requirements
 See README in the respective folder.
